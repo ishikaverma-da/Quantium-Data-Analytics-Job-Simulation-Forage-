@@ -132,9 +132,9 @@ The complete client presentation is available in the **presentation** folder.
 
 ### Presentation Preview
 
-![Presentation Cover](images/presentation_cover.png)
+![Presentation Cover](image/presentation_cover.png)
 
-![Presentation Recommendations](images/presentation_recommendation.png)
+![Presentation Recommendations](image/presentation_recommendation.png)
 
 ---
 
