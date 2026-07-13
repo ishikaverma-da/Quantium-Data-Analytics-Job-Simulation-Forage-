@@ -62,19 +62,19 @@ The datasets contain customer transaction records, product information, customer
 
 ## 1️⃣ Brand Performance
 
-![Brand Performance](images_1.png)
+![Brand Performance](image_1.png)
 
 ---
 
 ## 2️⃣ Sales by Customer Lifestage
 
-![Customer Lifestage](images_2.png)
+![Customer Lifestage](image_2.png)
 
 ---
 
 ## 3️⃣ Premium Customer Analysis
 
-![Premium Customer](images_3.png)
+![Premium Customer](image_3.png)
 
 ---
 
