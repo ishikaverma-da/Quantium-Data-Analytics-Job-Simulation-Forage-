@@ -68,37 +68,37 @@ The datasets contain customer transaction records, product information, customer
 
 ## 2️⃣ Sales by Customer Lifestage
 
-![Customer Lifestage](image_2.png)
+![Customer Lifestage](image/image_2.png)
 
 ---
 
 ## 3️⃣ Premium Customer Analysis
 
-![Premium Customer](image_3.png)
+![Premium Customer](image/image_3.png)
 
 ---
 
 ## 4️⃣ Customer Segment Analysis
 
-![Customer Segment](image_4.png)
+![Customer Segment](image/image_4.png)
 
 ---
 
 ## 5️⃣ Preferred Pack Size
 
-![Pack Size](images/pack_size.png)
+![Pack Size](image/image_5.png)
 
 ---
 
 ## 6️⃣ Average Purchase Quantity by Lifestage
 
-![Purchase Quantity](images/average_purchase_quantity.png)
+![Purchase Quantity](image/image_6.png)
 
 ---
 
 ## 7️⃣ Customer Purchasing Behaviour
 
-![Customer Behaviour](images/customer_behaviour.png)
+![Customer Behaviour](image/image_7.png)
 
 ---
 
