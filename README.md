@@ -62,7 +62,7 @@ The datasets contain customer transaction records, product information, customer
 
 ## 1️⃣ Brand Performance
 
-![Brand Performance](image_1.png)
+![Brand Performance](image/image_1.png)
 
 ---
 
