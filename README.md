@@ -126,7 +126,7 @@ The datasets contain customer transaction records, product information, customer
 
 The complete client presentation is available in the **presentation** folder.
 
-📄 **Presentation:** `presentation/Quantium_Retail_Analytics_Presentation.pdf`
+📄 **Presentation:** `Presentation/Quantium_Retail_Analytics_presentation.pdf`
 
 ### Presentation Preview
 
