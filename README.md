@@ -179,3 +179,9 @@ The simulation provided practical experience in retail analytics, customer behav
 ---
 
 ⭐ If you found this project interesting, feel free to explore the repository and connect with me on LinkedIn.
+
+## 👩‍💻 Author
+**Ishika Verma**
+Data Analyst | SQL • Power BI • Python • Excel
+🔗 [LinkedIn](https://www.linkedin.com/in/ishika-verma-4b60bb3aa)
+🐙 [GitHub](https://github.com/ishikaverma-da)
